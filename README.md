@@ -19,8 +19,8 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="">
   <div align="center" ><br>
     <a href="https://github.com/marcivonfilho" style="text-decoration: none;">
-    <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=MarcivonFilho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcivonFilho&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=marcivonfilho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcivonfilho&layout=compact&langs_count=7&theme=tokyonight"/>
     </a>
   </div>
   <br>
